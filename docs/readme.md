@@ -153,8 +153,7 @@ WiFi信号本质上是一种电磁波，WiFi信号的强度就取决于电磁波
 
 - 需要的知识：《天线原理》等
   
-![PPT](https://user-images.githubusercontent.com/97519158/148950450-2bcbac20-f140-489c-a802-8ee6077ed135.PNG)
-
+![幻灯片1](https://user-images.githubusercontent.com/97519158/148963343-dc330d28-9cdd-4acf-978c-4a79a4247114.jpg)
 
 <br>
 
